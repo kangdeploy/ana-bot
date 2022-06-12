@@ -2,7 +2,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //Others
-global.owner = ['18312576749','6283811034750']
+global.owner = ['6283811034750']
 global.nomerowner = "18312576749"
 global.ownername = "Fardev78"
 global.namebot = "ANA~BOT"
